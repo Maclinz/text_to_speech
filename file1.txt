@@ -1,0 +1,2 @@
+This is a file 1 text
+Go to the next line
