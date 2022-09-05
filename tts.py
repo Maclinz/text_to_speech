@@ -25,7 +25,7 @@ class TextToSpeech:
 
 
 person1 = TextToSpeech(fileText, "en", "John")
-person2 = TextToSpeech(fileText2, "en", "Mike")
+person2 = TextToSpeech(fileText2, "en", "Joel")
 
 window = Tk()
 window.title("Text To Speech")
